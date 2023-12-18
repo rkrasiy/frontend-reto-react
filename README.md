@@ -2,6 +2,11 @@
 
 ### Start dev
 
+```yarn install```
+or
+```npm install```
+
+and
 ```npm run dev```
 
 
